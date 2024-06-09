@@ -1,0 +1,12 @@
+certifi==2024.2.2
+cffi==1.16.0
+charset-normalizer==3.3.2
+curl_cffi==0.6.4
+fonttools==4.52.1
+idna==3.7
+lxml==5.2.2
+pycparser==2.22
+PyExecJS==1.5.1
+requests==2.32.2
+six==1.16.0
+urllib3==2.2.1
